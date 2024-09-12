@@ -1,0 +1,23 @@
+{
+  "name": "Serika's Collection Vapor Related",
+  "packages": [
+    {
+      "url": "https://github.com/vapor/vapor.git"
+    },
+    {
+      "url": "https://github.com/vapor/jwt.git"
+    },
+    {
+      "url": "https://github.com/vapor/fluent.git"
+    },
+    {
+      "url": "https://github.com/vapor/fluent-sqlite-driver.git"
+    },
+    {
+      "url": "https://github.com/vapor/fluent-mysql-driver.git"
+    },
+    {
+      "url": "https://github.com/vapor/fluent-mongo-driver.git"
+    }
+  ]
+}
